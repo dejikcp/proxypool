@@ -50,20 +50,10 @@
     url: https://openit.ml/Clash.yaml
  
  - type: clash
-  options:
+   options:
     url: https://free886.herokuapp.com/clash/proxies
 
  - type: clash
-  options:
+   options:
     url: https://fq.lonxin.net/clash/proxies
 
-
-# 某个网站抓取
-- type: clash
-  options:
-    url: http://42.194.196.226/clash/proxies
-
-# 某个网站抓取
-- type: clash
-  options:
-    url: https://proxypoolss.fly.dev/clash/proxies
