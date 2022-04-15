@@ -48,12 +48,4 @@
 - type: clash
   options:
     url: https://openit.ml/Clash.yaml
- 
- - type: clash
-   options:
-    url: https://free886.herokuapp.com/clash/proxies
-
- - type: clash
-   options:
-    url: https://fq.lonxin.net/clash/proxies
 
