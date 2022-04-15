@@ -30,6 +30,40 @@
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 
 # 某个网站抓取
-- type: web-freessrxyz
+- type: clash
   options:
-  
+    url: https://pool.jinxnet.xyz/clash/proxies
+    
+
+# 某个网站抓取
+- type: clash
+  options:
+    url: https://ednovas.design/clash/proxies
+ 
+
+- type: clash
+  options:
+    url: https://dllx.tk/GreenFishYYDS-Clash
+
+- type: clash
+  options:
+    url: https://openit.ml/Clash.yaml
+ 
+ - type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+
+ - type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+
+
+# 某个网站抓取
+- type: clash
+  options:
+    url: http://42.194.196.226/clash/proxies
+
+# 某个网站抓取
+- type: clash
+  options:
+    url: https://proxypoolss.fly.dev/clash/proxies
