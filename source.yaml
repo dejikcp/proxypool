@@ -49,3 +49,23 @@
   options:
     url: https://openit.ml/Clash.yaml
 
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: https://ss.dswang.ga:8443/clash/proxies
+
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/proxies
+
+- type: clash
+  options:
+    url: http://39.106.12.141:8081/clash/proxies
+
+
+
+
+
