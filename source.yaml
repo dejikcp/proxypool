@@ -65,6 +65,10 @@
   options:
     url: http://39.106.12.141:8081/clash/proxies
 
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
 
 
 
